@@ -33,7 +33,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/B4DD0WN/bot-wea
 ```
 
 ## Install the dependencies:
